@@ -6,5 +6,5 @@
   
   
 ### Second page
-![]()
+![](https://github.com/Musab9860576525/Death-Cause-Analysis-Power-BI-/blob/main/PB%20png%202.png)
 
