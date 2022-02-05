@@ -1,11 +1,14 @@
 # Death-Cause-Analysis-Power-BI-
-### PBIX file overview
-### First Page
+## PBIX file overview
+### 1) First Page
+
 ![first page](https://github.com/Musab9860576525/Death-Cause-Analysis-Power-BI-/blob/main/PB%20png%201.png)
+
   Click on Next Button for next page
   
   
-### Second page
+### 2) Second page
+
 ![](https://github.com/Musab9860576525/Death-Cause-Analysis-Power-BI-/blob/main/PB%20png%202.png)
 
 Second Page consist of 4 Component.<br>
@@ -17,5 +20,13 @@ This clearly shows Cardiovascular, Neoplasms, Respiratory diseases are major cau
               2) To Drilldown further.<br>  
 - [x] <b>D) Falg Visual : </b>For showing Falg of countries selected bu filter.  <br>
 
-### Third Page
-![]()
+### 3) Third Page
+
+![](https://github.com/Musab9860576525/Death-Cause-Analysis-Power-BI-/blob/main/PB%20png%203.png)
+
+
+Third Page consist of 2 Component.<br>
+- [x] <b>A) Map : </b> This map is use to highlight the country selected during drilldown.<br>
+- [X] <b>B) Multi_line Card : </b> This card is use to represent actual count of death by each diseases in a particular country selected during drilldown operation.<b>  
+
+
